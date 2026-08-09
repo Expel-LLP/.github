@@ -99,10 +99,10 @@
   </tr>
   <tr>
     <td width="100" align="center">
-      <img src="https://raw.githubusercontent.com/Expel-LLP/.github/main/profile/exile.jpg" width="72" style="border-radius: 12px;" />
+      <img src="https://raw.githubusercontent.com/Expel-LLP/.github/main/profile/veil-logo.png" width="72" style="border-radius: 12px;" />
     </td>
     <td>
-      <b><a href="https://veil.mom">veil.mom (Portfolio)</a></b> &nbsp; <img src="https://img.shields.io/badge/Ecosystem-ec4899?style=flat-square" /><br />
+      <b><a href="https://veil.mom">veil.mom (Portfolio)</a></b> &nbsp; <img src="https://img.shields.io/badge/Portfolio-ec4899?style=flat-square" /><br />
       <sub>Expel's complete portfolio, historical projects, and brand ecosystems.</sub>
     </td>
   </tr>
